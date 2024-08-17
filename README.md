@@ -1,2 +1,2 @@
-# graph theory project
-&emsp; This was Graph theory (network-science) university course project.
+# network-science project
+&emsp; This was network-science (Graph-theory) university course project.
